@@ -48,6 +48,18 @@
 
 ---
 
+### 🎭 Competencias Técnicas
+
+<div align="center">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 432" width="100%" height="auto">
+        <!-- Inserta aquí el contenido completo del SVG generado -->
+        <rect width="720" height="432" fill="white"/>
+        <text x="50" y="50" font-size="20" fill="black">Ejemplo de gráfico SVG aquí</text>
+    </svg>
+</div>
+
+---
+
 ### ✨ **Intereses**
 - Colaborar en proyectos de código abierto.
 - Explorar nuevas tecnologías y metodologías de desarrollo.
@@ -55,7 +67,7 @@
 
 ---
 
-### 📫 **Contáctame**
+### 📧 **Contáctame**
 - **Email**: [esmeralda.ortega.cano@gmail.com](mailto:esmeralda.ortega.cano@gmail.com)
 - **LinkedIn**: [Esmeralda Caño Ortega](http://www.linkedin.com/in/esmeralda-ca%25C3%25B1o-ortega-2b807a205)
 - **GitHub**: [EsmeraldaCanoOrtega](https://github.com/EsmeraldaCanoOrtega)
