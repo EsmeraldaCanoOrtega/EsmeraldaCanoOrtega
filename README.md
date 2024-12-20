@@ -2,6 +2,7 @@
 
 ### 👩‍💻 **Desarrolladora Java | Full Stack Developer**
 ---
+¡Me apasiona la tecnología, el aprendizaje continuo y los desafíos que impulsan la innovación! 🚀. Mi experiencia incluye tanto desarrollo backend como frontend, con un enfoque en arquitecturas modernas y herramientas innovadoras.
 
 ### 🛠️ Tecnologías y Herramientas:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -11,7 +12,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-¡Me apasiona la tecnología, el aprendizaje continuo y los desafíos que impulsan la innovación! 🚀. Mi experiencia incluye tanto desarrollo backend como frontend, con un enfoque en arquitecturas modernas y herramientas innovadoras.
+
 
 ---
 
