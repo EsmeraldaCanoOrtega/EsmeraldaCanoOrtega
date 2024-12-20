@@ -39,12 +39,13 @@
 
 ---
 
-### 🛠️ **Habilidades Técnicas**
-- **Lenguajes**: Java, Python, SQL, HTML, CSS, JavaScript.
-- **Frameworks y Herramientas**: Spring Boot, Hibernate, React, Docker, Tailwind CSS.
-- **Bases de Datos**: PostgreSQL, MongoDB, MySQL, Oracle.
-- **Control de Versiones**: Git.
-- **Idiomas**: Español (Nativo), Inglés (Intermedio).
+### 🛠️ Tecnologías y Herramientas:
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
