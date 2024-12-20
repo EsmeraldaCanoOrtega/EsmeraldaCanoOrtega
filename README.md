@@ -52,9 +52,12 @@
 
 <div align="center">
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 432" width="100%" height="auto">
-        <!-- Inserta aquí el contenido completo del SVG generado -->
+        <!-- Aquí va el contenido SVG real -->
         <rect width="720" height="432" fill="white"/>
-        <text x="50" y="50" font-size="20" fill="black">Ejemplo de gráfico SVG aquí</text>
+        <g>
+            <text x="50" y="50" font-size="20" fill="black">Competencias Técnicas de Esmeralda</text>
+            <!-- Agrega aquí elementos visuales que representen los datos -->
+        </g>
     </svg>
 </div>
 
