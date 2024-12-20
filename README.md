@@ -1,6 +1,15 @@
 # ¡Hola! 👋 Soy Esmeralda Caño Ortega
 
 ### 👩‍💻 **Desarrolladora Java | Full Stack Developer**
+---
+
+### 🛠️ Tecnologías y Herramientas:
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ¡Me apasiona la tecnología, el aprendizaje continuo y los desafíos que impulsan la innovación! 🚀. Mi experiencia incluye tanto desarrollo backend como frontend, con un enfoque en arquitecturas modernas y herramientas innovadoras.
 
@@ -37,15 +46,6 @@
   - **Python** en Udemy *(Junio 2023 - Octubre 2023)*  
   - **Inglés** en Udemy *(Octubre 2022 - Octubre 2023)*
 
----
-
-### 🛠️ Tecnologías y Herramientas:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
